@@ -1,9 +1,9 @@
 # -She-the-Force-Hack-for-Sustainability-with-Tech-Solutions-
 
 # Contents
-What's the problem?
-How can technology help?
-he idea
+  What's the problem?
+  How can technology help?
+  The idea
 
 # What's the problem?
 
